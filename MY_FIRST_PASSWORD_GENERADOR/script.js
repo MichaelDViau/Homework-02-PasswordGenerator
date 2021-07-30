@@ -69,4 +69,3 @@ function writePassword() {
 
 // An Event listener to generate the click results - meaning that this will allow the ''mouse click'' for the js code to operate 
 generateBtn.addEventListener("click", writePassword);
-
