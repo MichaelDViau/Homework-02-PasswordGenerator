@@ -4,7 +4,7 @@
 
 https://michaeldviau.github.io/Homework-02-PasswordGenerator/
 
-*ScreemShot*
+*ScreenShot*
 
 ![image](https://user-images.githubusercontent.com/86207868/130331738-e36506ee-bf12-4459-8929-bb9fc1968411.png)
 
