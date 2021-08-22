@@ -1,9 +1,14 @@
-# PasswordGeneradorJS_01
-My First Password Generador UPDATE 2.0 
+# HOMEWORK 02 - PasswordGeneradorJS V2.0
 
-Website preview; ![image](https://user-images.githubusercontent.com/86207868/130331738-e36506ee-bf12-4459-8929-bb9fc1968411.png)
+*Link*
 
-# 03 JavaScript: Password Generator
+https://michaeldviau.github.io/Homework-02-PasswordGenerator/
+
+*ScreemShot*
+
+![image](https://user-images.githubusercontent.com/86207868/130331738-e36506ee-bf12-4459-8929-bb9fc1968411.png)
+
+*Instruction:*
 
 ## Your Task
 
